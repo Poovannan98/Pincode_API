@@ -1,0 +1,26 @@
+body{
+    background :url("https://www.india.com/wp-content/uploads/2022/07/india-post.jpg");
+    background-repeat: no-repeat;
+    background-position: 0%;
+    /* aspect-ratio: 16:9; */
+}
+.navbar{
+    background-color: #e88b8ae3;
+             
+    color: rgb(19, 18, 18);
+    font-weight: bold;
+
+}
+.input-group-text{
+    background: rgb(189, 167, 167);
+    font-weight: bold;
+    color: rgb(187, 115, 115);
+}
+
+#sp{
+    font-weight: bold;
+}
+#sp1{
+color: rgb(249, 5, 5);
+font-weight: bold;
+}
